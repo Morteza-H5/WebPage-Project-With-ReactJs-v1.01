@@ -1,6 +1,5 @@
 # WebPage-Project-With-ReactJs-v1.01
-
-Morteza Hooshmand
+#(c) 2020 Morteza Hooshmand
 
 1. Page designed using an open source JavaScript library called reactjs
 2. The screen is completely responsive to any type of device.
